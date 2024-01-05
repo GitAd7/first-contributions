@@ -14,6 +14,7 @@
 - [Prathibha  Boini](https://github.com/Prathibha-yadav)
 - [Ankur](https://github.com/Ar7109)
 - [Krish Sehgal](https://github.com/krish-sehgal)
+- [Adesh Singh Tomar](https://github.com/GitAd7)
 - [TH-Raju](https://github.com/TH-Raju)
 - [Advait Johari](https://github.com/aadijo)
 - [DylanCo](https://github.com/DylanCoexel)
